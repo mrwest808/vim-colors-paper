@@ -326,7 +326,7 @@ else " LIGHT VARIANT
 
     " Basics:
     let s:foreground   = ['#444444', '238']
-    let s:background   = ['#FFFFFF', '255']
+    let s:background   = ['#FFFFFF', '15']
     let s:selection    = ['#d0d0d0', '252']
     let s:nontext      = ['#dfafff', '189']
     let s:window       = ['#e4e4e4', '254']
@@ -355,7 +355,7 @@ else " LIGHT VARIANT
 
     " Statusline:
     let s:statusline_active_fg   = ['#444444', '238']
-    let s:statusline_active_bg   = ['#dadada', '253']
+    let s:statusline_active_bg   = ['#eeeeee', '255']
     let s:statusline_inactive_fg = ['#dadada', '253']
     let s:statusline_inactive_bg = ['#c6c6c6', '251']
 

@@ -326,7 +326,7 @@ else " LIGHT VARIANT
 
     " Basics:
     let s:foreground   = ['#444444', '238']
-    let s:background   = ['#F5F5F5', '255']
+    let s:background   = ['#FFFFFF', '255']
     let s:selection    = ['#d0d0d0', '252']
     let s:nontext      = ['#dfafff', '189']
     let s:window       = ['#e4e4e4', '254']
